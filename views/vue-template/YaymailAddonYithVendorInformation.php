@@ -1,0 +1,1 @@
+<h1>Yith Vendor Information</h1>
